@@ -1,0 +1,5 @@
+{
+  "name": "A4 Print Framer",
+  "description": "A tool to add custom borders and text to images, specifically calibrated for A4 dimensions (210mm x 297mm). Perfect for creating framed prints with clean typography.",
+  "requestFramePermissions": []
+}
